@@ -7,6 +7,14 @@
         return a * b;
     }
     }
+
+    public class Resta
+    {
+        public static int Restar(int a, int b)
+        {
+            return a - b;
+        }
+    }
     public static void Main()
     {
         Console.WriteLine(Suma.Sumar(1, 2));
