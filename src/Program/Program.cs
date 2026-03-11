@@ -1,5 +1,12 @@
 ﻿public static class Program
 {
+    public class Multiplication
+    {
+    public static int Multiply(int a, int b)
+    {
+        return a * b;
+    }
+    }
     public static void Main()
     {
         Console.WriteLine(Suma.Sumar(1, 2));
