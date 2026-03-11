@@ -7,4 +7,11 @@
         Console.WriteLine(Multiplicacion.Multiplicar(5, 6));
         Console.WriteLine(Division.Dividir(7, 8));
     }
+
+    public static int Resta(int a, int b)
+    {
+        return a - b;
+    }
+
 }
+
