@@ -7,11 +7,13 @@
         return a * b;
     }
     }
-    public class Suma (int a, int b)
+    public class Suma
     {
-        return a + b;
+        public static int Add(int a, int b)
+        {
+            return 0; // Cambio incorrecto
+        }
     }
-
     public class Resta
     {
         public static int Restar(int a, int b)
