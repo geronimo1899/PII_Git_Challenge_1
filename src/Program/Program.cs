@@ -12,7 +12,7 @@
 // Esta clase implementa la operación DIVISION
     public class Division
 {
-   public static double Divide(int a, int b)
+   public static double Dividir(int a, int b)
    {
        return 0; //Cambio Incorrecto
    }
