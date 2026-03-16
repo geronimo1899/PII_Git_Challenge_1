@@ -1,15 +1,15 @@
 ﻿public static class Program
 {
-    public class Multiplication
+    public class Multiplicacion
     {
-    public static int Multiply(int a, int b)
+    public static int Multiplicar(int a, int b)
     {
         return a * b;
     }
     }
     public class Suma
     {
-        public static int Add(int a, int b)
+        public static int Sumar(int a, int b)
         {
             return 0; // Cambio incorrecto
         }
@@ -33,7 +33,7 @@
 // Esta clase implementa la operación DIVISION
     public class Division
 {
-   public static double Divide(int a, int b)
+   public static double Dividir(int a, int b)
    {
        return (double)a / b;
    }
